@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-45-magnetic-materials-spring-2004/659f3040251e2ab4d56e32f17cd1a1c4_sols_3.pdf
+file: /media/courses/3-45-magnetic-materials-spring-2004/659f3040251e2ab4d56e32f17cd1a1c4_sols_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: sols_3.pdf
 uid: 659f3040-251e-2ab4-d56e-32f17cd1a1c4
