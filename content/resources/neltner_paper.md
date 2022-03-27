@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b0f82ba0-83f9-9191-c238-8912122a3f99
 resourcetype: Document
 title: neltner_paper.pdf
 uid: f014aa8c-de10-0271-7434-9efd0f90fadd

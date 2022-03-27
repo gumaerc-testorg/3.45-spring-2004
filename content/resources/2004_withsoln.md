@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: de86ae57-1a7b-a7b8-8938-c263a907b65a
 resourcetype: Document
 title: 2004_withsoln.pdf
 uid: a3c1fbb2-1a19-1955-3462-6ffce2fdcc36
