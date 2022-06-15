@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-45-magnetic-materials-spring-2004/28490ea51af7085feaa6ea5966a9736f_syllabus.pdf
+file: /courses/3-45-magnetic-materials-spring-2004/28490ea51af7085feaa6ea5966a9736f_syllabus.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
