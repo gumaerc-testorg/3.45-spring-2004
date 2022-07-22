@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 815b4639-d71f-daeb-feb3-39b6d2315194
 ---
@@ -449,7 +453,7 @@ Exchange Fluctuations, Random Anisotropy Effects on Properties with Length Scale
 
 _Hard Magnetic Materials_
 
-_M-H, B-H, (B-H)_max, Fine Particles, Nucleation, Pinning
+_M-H, B-H, (B-H)_{{< sub "max" >}}, Fine Particles, Nucleation, Pinning
 
 Materials: Alnico, Ba Ferrite, Co-RE, Fe-RE-B
 
