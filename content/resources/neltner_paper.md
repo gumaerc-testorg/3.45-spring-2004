@@ -5,6 +5,7 @@ file: /courses/3-45-magnetic-materials-spring-2004/f014aa8cde10027174349efd0f90f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: neltner_paper.pdf
 uid: f014aa8c-de10-0271-7434-9efd0f90fadd
 ---
 Student project authored by Brian Neltner.
-

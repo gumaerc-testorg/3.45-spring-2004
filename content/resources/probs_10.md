@@ -5,6 +5,7 @@ file: /courses/3-45-magnetic-materials-spring-2004/a46364159e2dc71e7191aa2cc1768
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
