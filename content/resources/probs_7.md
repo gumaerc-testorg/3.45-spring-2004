@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-45-magnetic-materials-spring-2004/1f1fd3b19bca0b3fb41ef16ba2fb7862_probs_7.pdf
+file_size: 128923
 file_type: application/pdf
 learning_resource_types:
 - Assignments

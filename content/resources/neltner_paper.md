@@ -2,6 +2,7 @@
 content_type: resource
 description: Student project authored by Brian Neltner.
 file: /courses/3-45-magnetic-materials-spring-2004/f014aa8cde10027174349efd0f90fadd_neltner_paper.pdf
+file_size: 120707
 file_type: application/pdf
 learning_resource_types:
 - Projects
