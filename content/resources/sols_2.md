@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-45-magnetic-materials-spring-2004/3447dfcf73e05e9b7ab88b2267de228b_sols_2.pdf
+file: /ol-ocw-studio-app/courses/3-45-magnetic-materials-spring-2004/3447dfcf73e05e9b7ab88b2267de228b_sols_2.pdf
 file_size: 158518
 file_type: application/pdf
 learning_resource_types:
