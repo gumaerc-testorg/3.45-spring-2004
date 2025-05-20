@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project authored by Brendan Wells.
-file: /ol-ocw-studio-app/courses/3-45-magnetic-materials-spring-2004/2f4929ca36e8094340193b9a91ebe69e_wells_paper.pdf
+file: /courses/3-45-magnetic-materials-spring-2004/2f4929ca36e8094340193b9a91ebe69e_wells_paper.pdf
 file_size: 172731
 file_type: application/pdf
 learning_resource_types:

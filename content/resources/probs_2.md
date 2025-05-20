@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment problems for lecture.
-file: /ol-ocw-studio-app/courses/3-45-magnetic-materials-spring-2004/da3a475aadc2d81cf17cc59ab2b3c575_probs_2.pdf
+file: /courses/3-45-magnetic-materials-spring-2004/da3a475aadc2d81cf17cc59ab2b3c575_probs_2.pdf
 file_size: 47266
 file_type: application/pdf
 learning_resource_types:

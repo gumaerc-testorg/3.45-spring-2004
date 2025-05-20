@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-45-magnetic-materials-spring-2004/734f489e3cc784aa66e1a021c18bafba_sample_exam_2002.pdf
+file: /courses/3-45-magnetic-materials-spring-2004/734f489e3cc784aa66e1a021c18bafba_sample_exam_2002.pdf
 file_size: 149377
 file_type: application/pdf
 learning_resource_types:
