@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project authored by Patrick McCluskey.
-file: /courses/3-45-magnetic-materials-spring-2004/67e38b64d1fd6f7eb9547d7f6060c773_mccluskey_paper.pdf
+file: /ol-ocw-studio-app/courses/3-45-magnetic-materials-spring-2004/67e38b64d1fd6f7eb9547d7f6060c773_mccluskey_paper.pdf
 file_size: 409205
 file_type: application/pdf
 learning_resource_types:
